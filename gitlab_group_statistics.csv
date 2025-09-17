@@ -1,0 +1,199 @@
+ID,Group_Name,Full_Path,Web_URL,Description,Created_At,Project_Count,Storage_Size_(KB)
+6,DLVN-NonCore,noncore,https://git.dai-ichi-life.com.vn/groups/noncore,💎,2021-10-23T04:10:10.094Z,0,321161.787109375
+23,01-SystemReleases,01-systemreleases,https://git.dai-ichi-life.com.vn/groups/01-systemreleases,,2022-03-23T03:53:40.781Z,0,139296.4951171875
+38,PeripheralSystemDev,peripheralsystemdev,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev,💎,2022-04-18T03:59:18.860Z,0,0.0
+39,Workflow,peripheralsystemdev/workflow,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/workflow,,2022-04-18T04:07:00.758Z,0,1215238.0634765625
+40,CSPortal,peripheralsystemdev/csportal,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/csportal,,2022-04-18T04:07:25.734Z,0,95736.8720703125
+41,D-Connect,peripheralsystemdev/d-connect,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-connect,,2022-04-18T04:08:11.462Z,0,0.0
+42,webversion,peripheralsystemdev/d-connect/webversion,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-connect/webversion,,2022-04-18T04:09:05.631Z,0,1024083.3994140625
+43,mobileversion,peripheralsystemdev/d-connect/mobileversion,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-connect/mobileversion,,2022-04-18T04:09:24.756Z,0,1238530.8662109375
+44,services,peripheralsystemdev/d-connect/services,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-connect/services,,2022-04-18T04:10:19.097Z,0,0.46875
+45,ePayment,peripheralsystemdev/epayment,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/epayment,,2022-04-18T04:12:15.129Z,0,90901.44921875
+46,AgencyPortal,peripheralsystemdev/agencyportal,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/agencyportal,,2022-04-18T04:14:08.771Z,0,192933.658203125
+47,CustomerPortal,peripheralsystemdev/customerportal,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/customerportal,,2022-04-18T04:14:24.347Z,0,14022.583984375
+48,eTaxInvoice,peripheralsystemdev/etaxinvoice,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/etaxinvoice,,2022-04-18T04:14:39.267Z,0,104868.8544921875
+49,CCMS,peripheralsystemdev/ccms,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ccms,,2022-04-18T04:15:01.445Z,0,113095.7548828125
+50,AXP,peripheralsystemdev/axp,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/axp,,2022-04-18T04:15:18.688Z,0,0.0
+51,D-Portal,peripheralsystemdev/d-portal,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-portal,,2022-04-18T04:15:42.404Z,0,39831.470703125
+52,DFVNPortal,peripheralsystemdev/dfvn-portal,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/dfvn-portal,,2022-04-18T04:16:22.559Z,0,48173.349609375
+53,eLearning_TMS,peripheralsystemdev/elearning_tms,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/elearning_tms,,2022-04-18T04:17:10.249Z,0,749081.52734375
+54,Leavetrack,peripheralsystemdev/leavetrack,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/leavetrack,,2022-04-18T04:17:30.528Z,0,1785.8037109375
+55,Progiss,peripheralsystemdev/progiss,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/progiss,,2022-04-18T04:17:51.338Z,0,6184.3369140625
+56,Insight,peripheralsystemdev/insight,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/insight,,2022-04-18T04:18:15.262Z,0,104560.1142578125
+57,Referral,peripheralsystemdev/referral,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/referral,,2022-04-18T04:19:00.281Z,0,58258.4580078125
+58,PIP,peripheralsystemdev/pip,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/pip,,2022-04-18T04:19:37.574Z,0,105909.7109375
+59,eMailServices,peripheralsystemdev/emailservices,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/emailservices,,2022-04-18T04:19:59.285Z,0,9119.943359375
+60,DLVNScan,peripheralsystemdev/dlvnscan,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/dlvnscan,,2022-04-18T04:20:12.520Z,0,2915.4921875
+61,SMS,peripheralsystemdev/smsservices,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/smsservices,,2022-04-18T04:20:49.146Z,0,93028.08203125
+62,ITInventory,peripheralsystemdev/itinventory,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/itinventory,,2022-04-18T04:21:10.294Z,0,2640.6572265625
+63,PremiumCollectionWS,peripheralsystemdev/premiumcollectionws,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/premiumcollectionws,,2022-04-18T04:21:34.724Z,0,7940.587890625
+64,LoyaltyPoint,peripheralsystemdev/loyaltypoint,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/loyaltypoint,,2022-04-18T04:22:12.741Z,0,31055.244140625
+65,ETL,peripheralsystemdev/etl,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/etl,,2022-04-18T04:22:36.406Z,0,190189.095703125
+66,ExtPrinting,peripheralsystemdev/extprinting,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/extprinting,,2022-04-18T04:23:07.413Z,0,131098.509765625
+67,HCMS,peripheralsystemdev/hcms,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/hcms,,2022-04-18T04:23:20.618Z,0,1067431.1484375
+68,Medic,peripheralsystemdev/medic,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/medic,,2022-04-18T04:23:31.849Z,0,256.1865234375
+69,FingerPrintSystem,peripheralsystemdev/fingerprintsystem,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/fingerprintsystem,,2022-04-18T04:24:44.885Z,0,155576.0439453125
+70,DLDreampad,peripheralsystemdev/dldreampad,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/dldreampad,,2022-04-18T05:04:43.426Z,0,252304.056640625
+71,OnlinePayment,peripheralsystemdev/onlinepayment,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/onlinepayment,,2022-04-18T05:06:22.567Z,0,19459.373046875
+72,D-Success,peripheralsystemdev/d-success,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-success,,2022-04-18T05:07:29.015Z,0,4.173828125
+73,DLVNWebsite,peripheralsystemdev/dlvnwebsite,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/dlvnwebsite,,2022-04-18T11:57:25.570Z,0,235874.9091796875
+74,DFVNWebsite,peripheralsystemdev/dfvnwebsite,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/dfvnwebsite,,2022-04-18T11:57:45.566Z,0,5045270.2822265625
+75,SRM,peripheralsystemdev/srm,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/srm,,2022-04-18T11:58:01.398Z,0,166196.9833984375
+76,HospitalPortal,peripheralsystemdev/hospitalportal,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/hospitalportal,,2022-04-19T01:06:59.866Z,0,131816.712890625
+77,mAGP,peripheralsystemdev/magp,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/magp,,2022-04-19T01:22:50.816Z,0,2618197.287109375
+78,ODS,peripheralsystemdev/ods,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ods,,2022-04-19T04:43:08.749Z,0,0.4599609375
+79,report_letter,peripheralsystemdev/extprinting/report_letter,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/extprinting/report_letter,,2022-04-19T04:50:34.050Z,0,153448.244140625
+80,webversion,peripheralsystemdev/d-success/webversion,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-success/webversion,,2022-04-19T04:55:44.201Z,0,117045.1171875
+81,mobileversion,peripheralsystemdev/d-success/mobileversion,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-success/mobileversion,,2022-04-19T04:56:17.031Z,0,2386912.6640625
+82,services,peripheralsystemdev/d-success/services,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-success/services,,2022-04-19T04:57:00.665Z,0,440323.4716796875
+83,RPA,peripheralsystemdev/rpa,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/rpa,,2022-04-19T05:07:11.899Z,0,197352.1591796875
+84,UIR,peripheralsystemdev/uir,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/uir,,2022-04-19T09:22:27.404Z,0,601819.646484375
+85,ADPortal,peripheralsystemdev/adportal,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/adportal,,2022-04-19T09:23:19.984Z,0,38788.314453125
+86,ePolicy,peripheralsystemdev/epolicy,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/epolicy,,2022-04-20T11:13:41.693Z,0,3241.18359375
+87,PDFParser,peripheralsystemdev/pdfparser,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/pdfparser,,2022-04-20T11:16:13.779Z,0,125530.232421875
+88,IIB,peripheralsystemdev/iib,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/iib,,2022-04-20T11:22:17.485Z,0,0.0
+89,Workflow,peripheralsystemdev/iib/workflow,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/iib/workflow,,2022-04-20T11:23:40.335Z,0,506532.041015625
+90,Ingenium,peripheralsystemdev/iib/ingenium,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/iib/ingenium,,2022-04-20T11:26:39.809Z,0,30943.6826171875
+91,eApp,peripheralsystemdev/iib/eapp,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/iib/eapp,,2022-04-20T11:50:48.996Z,0,145318.470703125
+98,mAGP,peripheralsystemdev/iib/magp,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/iib/magp,,2022-04-21T09:02:50.658Z,0,74205.5048828125
+99,eCV,peripheralsystemdev/iib/ecv,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/iib/ecv,,2022-04-21T09:04:18.273Z,0,0.2236328125
+101,CCM,peripheralsystemdev/ccm,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ccm,,2022-04-22T03:43:04.055Z,0,88726.16796875
+102,ClinicDoc,peripheralsystemdev/clinicdoc,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/clinicdoc,,2022-04-22T03:46:29.490Z,0,34348.2685546875
+103,Microsite_15years_event,peripheralsystemdev/microsite_15years_event,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/microsite_15years_event,,2022-04-22T03:53:07.570Z,0,228712.890625
+104,LuckyDraw,peripheralsystemdev/luckydraw,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/luckydraw,,2022-04-22T03:55:38.217Z,0,39885.908203125
+111,trucnt,trucnt,https://git.dai-ichi-life.com.vn/groups/trucnt,,2022-11-21T04:10:19.780Z,0,638380.8642578125
+112,dms,trucnt/dms,https://git.dai-ichi-life.com.vn/groups/trucnt/dms,,2022-11-21T04:10:38.745Z,0,342175.1396484375
+124,ChatBot,peripheralsystemdev/iib/chatbot,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/iib/chatbot,,2023-04-04T07:07:07.760Z,0,181.4189453125
+131,instech,instech,https://git.dai-ichi-life.com.vn/groups/instech,💎,2023-06-27T08:36:08.968Z,0,81532759.83496094
+133,lost-and-found,lost-and-found,https://git.dai-ichi-life.com.vn/groups/lost-and-found,Group for storing projects that were not properly deleted. It should be considered as a system level Group with non-working projects inside it. The contents may be deleted with a future update. More info: gitlab.com/gitlab-org/gitlab/-/issues/198603,2023-07-04T12:14:26.725Z,0,0.0
+139,ETL,peripheralsystemdev/smsservices/etl,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/smsservices/etl,,2023-08-01T02:28:17.071Z,0,0.0
+141,EDW,peripheralsystemdev/edw,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/edw,,2023-08-29T09:20:57.556Z,0,23081.595703125
+142,cicd,cicd,https://git.dai-ichi-life.com.vn/groups/cicd,,2023-09-09T04:15:56.192Z,0,27610404.280273438
+146,etl,trucnt/etl,https://git.dai-ichi-life.com.vn/groups/trucnt/etl,,2023-10-05T06:36:39.900Z,0,2049.224609375
+150,sa-team,sa-team,https://git.dai-ichi-life.com.vn/groups/sa-team,,2023-10-20T04:50:07.041Z,0,923439.9248046875
+157,Hoan Dev,hoan-dev,https://git.dai-ichi-life.com.vn/groups/hoan-dev,,2024-01-19T03:30:29.251Z,0,76072.490234375
+409,SOP,peripheralsystemdev/workflow/sop,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/workflow/sop,,2024-03-28T03:13:21.790Z,0,408.2177734375
+440,determined,instech/determined,https://git.dai-ichi-life.com.vn/groups/instech/determined,,2024-07-22T06:26:14.987Z,0,408077.4501953125
+449,Intern-RnD,instech/intern-rnd,https://git.dai-ichi-life.com.vn/groups/instech/intern-rnd,,2024-07-30T04:15:45.596Z,0,794299.77734375
+469,DataPower_IBM_UAT,datapower_ibm,https://git.dai-ichi-life.com.vn/groups/datapower_ibm,,2024-09-06T04:38:58.988Z,0,614.5732421875
+483,sp2text-models-collection,instech/sp2text-models-collection,https://git.dai-ichi-life.com.vn/groups/instech/sp2text-models-collection,,2024-09-16T03:32:22.396Z,0,123954.966796875
+512,mobile-projects,instech/mobile-projects,https://git.dai-ichi-life.com.vn/groups/instech/mobile-projects,,2024-10-01T03:07:06.982Z,0,2362382.5869140625
+517,ibm-dp-prd,ibm-dp-prd,https://git.dai-ichi-life.com.vn/groups/ibm-dp-prd,,2024-10-05T07:45:34.561Z,0,932.3818359375
+554,Monitoring-openshift,monitoring-openshift,https://git.dai-ichi-life.com.vn/groups/monitoring-openshift,,2024-10-17T03:03:41.551Z,0,6.326171875
+575,IBM_ACE_UAT,ibm_ace_uat,https://git.dai-ichi-life.com.vn/groups/ibm_ace_uat,,2024-11-12T09:13:13.777Z,0,9619.7421875
+578,D-Medic,peripheralsystemdev/d-medic,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-medic,,2024-11-13T06:42:58.693Z,0,0.0
+579,mobileversion,peripheralsystemdev/d-medic/mobileversion,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-medic/mobileversion,,2024-11-13T06:44:02.187Z,0,177571.591796875
+580,webversion,peripheralsystemdev/d-medic/webversion,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-medic/webversion,,2024-11-13T06:45:17.042Z,0,111551.58984375
+581,database,peripheralsystemdev/d-medic/database,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/d-medic/database,,2024-11-13T06:45:44.187Z,0,5.95703125
+598,DataPower_ACE_UAT,datapower_ace_uat,https://git.dai-ichi-life.com.vn/groups/datapower_ace_uat,,2024-11-25T04:13:06.207Z,0,387.1552734375
+605,ibm-ace-prd,ibm-ace-prd,https://git.dai-ichi-life.com.vn/groups/ibm-ace-prd,,2024-12-05T10:59:21.254Z,0,1701.80859375
+616,ibm-dp-ace-prd,ibm-dp-ace,https://git.dai-ichi-life.com.vn/groups/ibm-dp-ace,,2024-12-18T08:26:33.550Z,0,1006.8916015625
+623,ServicePortal,peripheralsystemdev/serviceportal,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/serviceportal,,2024-12-20T06:45:30.818Z,0,320148.51171875
+629,ACE,peripheralsystemdev/ace,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ace,,2024-12-25T04:57:27.055Z,0,27167.1162109375
+632,iBPS,peripheralsystemdev/ace/ibps,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ace/ibps,The iBPS Workflow engine lies at the core of the platform and orchestrates all structured and ad-hoc processes. It ensures standardization yet provides the flexibility to change processes dynamically and manage in-flight process changes effectively.,2024-12-25T06:30:18.770Z,0,475827.4033203125
+655,OnlinePayment,peripheralsystemdev/ace/onlinepayment,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ace/onlinepayment,,2025-01-10T04:18:25.360Z,0,11591.962890625
+658,PremiumCollection,peripheralsystemdev/ace/premiumcollection,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ace/premiumcollection,,2025-01-14T12:26:54.339Z,0,127115.0322265625
+663,D-Procurement,peripheralsystemdev/ace/d-procurement,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ace/d-procurement,,2025-01-16T04:42:13.945Z,0,5050.3662109375
+669,CCM,peripheralsystemdev/ace/ccm,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ace/ccm,,2025-01-21T02:40:54.907Z,0,10206.58203125
+671,VoiceBot-ChatBot,peripheralsystemdev/ace/voicebot-chatbot,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ace/voicebot-chatbot,,2025-01-21T02:43:14.233Z,0,6430.70703125
+674,microservices,instech/microservices,https://git.dai-ichi-life.com.vn/groups/instech/microservices,,2025-01-23T01:27:44.858Z,0,54153.3583984375
+695,guidelines,instech/guidelines,https://git.dai-ichi-life.com.vn/groups/instech/guidelines,,2025-02-21T01:41:46.802Z,0,16214.9326171875
+719,D-Connect,peripheralsystemdev/ace/d-connect,https://git.dai-ichi-life.com.vn/groups/peripheralsystemdev/ace/d-connect,,2025-04-10T11:55:20.616Z,0,23561.0302734375
+725,SystemArchitecture,system-architecture,https://git.dai-ichi-life.com.vn/groups/system-architecture,,2025-04-14T04:07:18.794Z,0,11.7919921875
+726,GitlabCIFreeSolution,system-architecture/sampleprojects/gitlab-ci-free-solution,https://git.dai-ichi-life.com.vn/groups/system-architecture/sampleprojects/gitlab-ci-free-solution,,2025-04-14T04:09:21.757Z,0,205.955078125
+738,IBM-DP-Microsvc,ibm-dp-microsvc,https://git.dai-ichi-life.com.vn/groups/ibm-dp-microsvc,,2025-04-18T04:02:13.425Z,0,0.0
+739,IBM-DP-Microsvc-UAT,ibm-dp-microsvc-uat,https://git.dai-ichi-life.com.vn/groups/ibm-dp-microsvc-uat,,2025-04-18T04:04:01.048Z,0,949.8251953125
+741,Microservices,microservices,https://git.dai-ichi-life.com.vn/groups/microservices,💎,2025-04-18T06:42:19.412Z,0,0.0
+742,Servicing,microservices/servicing,https://git.dai-ichi-life.com.vn/groups/microservices/servicing,,2025-04-18T06:42:35.447Z,0,123279.98046875
+745,GitOps,gitops,https://git.dai-ichi-life.com.vn/groups/gitops,💎,2025-04-18T06:46:24.034Z,0,0.0
+746,PRD,gitops/prd,https://git.dai-ichi-life.com.vn/groups/gitops/prd,,2025-04-18T06:46:32.938Z,0,695.5712890625
+747,UAT,gitops/uat,https://git.dai-ichi-life.com.vn/groups/gitops/uat,,2025-04-18T06:46:46.839Z,0,3879.7822265625
+752,Pipeline,gitops/pipeline,https://git.dai-ichi-life.com.vn/groups/gitops/pipeline,,2025-04-18T06:51:00.702Z,0,597.5908203125
+761,ClaimManagement,microservices/claim-management,https://git.dai-ichi-life.com.vn/groups/microservices/claim-management,,2025-04-21T03:41:18.266Z,0,15.9384765625
+773,DatabaseScripts,database-scripts,https://git.dai-ichi-life.com.vn/groups/database-scripts,💎,2025-04-22T03:04:34.016Z,0,0.0
+775,MSSQL,database-scripts/mssql,https://git.dai-ichi-life.com.vn/groups/database-scripts/mssql,,2025-04-22T03:20:16.117Z,0,1388.6552734375
+776,DB2,database-scripts/db2,https://git.dai-ichi-life.com.vn/groups/database-scripts/db2,,2025-04-22T03:20:56.857Z,0,1163.736328125
+783,Openshift DR,openshift-dr,https://git.dai-ichi-life.com.vn/groups/openshift-dr,,2025-04-22T06:52:35.728Z,0,0.0
+784,ibm-ace-dr,openshift-dr/ibm-ace-dr,https://git.dai-ichi-life.com.vn/groups/openshift-dr/ibm-ace-dr,,2025-04-22T06:55:00.426Z,0,280.5048828125
+793,d-medic-dr,openshift-dr/d-medic-dr,https://git.dai-ichi-life.com.vn/groups/openshift-dr/d-medic-dr,,2025-04-24T09:43:02.838Z,0,111.998046875
+803,MYSQL,database-scripts/mysql,https://git.dai-ichi-life.com.vn/groups/database-scripts/mysql,,2025-04-25T09:28:20.784Z,0,15.9208984375
+805,Example,microservices/example,https://git.dai-ichi-life.com.vn/groups/microservices/example,,2025-04-25T10:10:42.091Z,0,14.703125
+807,SharedLibrary,shared-library,https://git.dai-ichi-life.com.vn/groups/shared-library,💎,2025-04-25T10:15:19.235Z,0,9123.0947265625
+811,api-data-uir,api-data-uir,https://git.dai-ichi-life.com.vn/groups/api-data-uir,,2025-04-28T02:20:25.836Z,0,135.3505859375
+815,Docker,system-architecture/docker,https://git.dai-ichi-life.com.vn/groups/system-architecture/docker,,2025-04-28T08:38:27.078Z,0,9250.501953125
+821,GitOps,system-architecture/gitops,https://git.dai-ichi-life.com.vn/groups/system-architecture/gitops,,2025-04-29T02:51:12.000Z,0,0.0
+822,Pipeline,system-architecture/gitops/pipeline,https://git.dai-ichi-life.com.vn/groups/system-architecture/gitops/pipeline,,2025-04-29T02:51:50.314Z,0,62.9208984375
+827,DConnectSystem,d-connect-system,https://git.dai-ichi-life.com.vn/groups/d-connect-system,💎,2025-05-05T03:31:29.843Z,0,137021.7255859375
+846,SampleProjects,system-architecture/sampleprojects,https://git.dai-ichi-life.com.vn/groups/system-architecture/sampleprojects,,2025-05-08T09:27:41.992Z,0,10.439453125
+852,UAT,system-architecture/gitops/uat,https://git.dai-ichi-life.com.vn/groups/system-architecture/gitops/uat,,2025-05-13T06:52:11.176Z,0,3.009765625
+856,ReporterMergeRequestPipeline,security-groups/reporter-merge-request-pipeline,https://git.dai-ichi-life.com.vn/groups/security-groups/reporter-merge-request-pipeline,"📌 Important note: These groups do not contain projects. Their sole purpose is to support detailed and efficient permission management, not to create or store projects within them.",2025-05-13T09:08:07.269Z,0,0.0
+857,DSuccessSystem,d-success-system,https://git.dai-ichi-life.com.vn/groups/d-success-system,"💎D-Success supports insurance agents (individuals, leaders, and business managers) in the traditional distribution channel via web and mobile apps.
+Users can submit proposals, and view/manage data including customers, proposals, policies, premiums, claims, performance results, income and debt (weekly, monthly, yearly), and documents.",2025-05-14T01:47:36.221Z,0,1051730.0078125
+865,ManagementConfig,management-config,https://git.dai-ichi-life.com.vn/groups/management-config,💎,2025-05-17T04:03:58.265Z,0,0.0
+866,UAT,management-config/uat,https://git.dai-ichi-life.com.vn/groups/management-config/uat,,2025-05-17T04:28:04.226Z,0,0.0
+867,PRD,management-config/prd,https://git.dai-ichi-life.com.vn/groups/management-config/prd,,2025-05-17T04:29:05.482Z,0,0.0
+868,ApplicationConfig,management-config/uat/application-config,https://git.dai-ichi-life.com.vn/groups/management-config/uat/application-config,,2025-05-17T04:30:23.421Z,0,160.57421875
+869,ApplicationConfig,management-config/prd/application-config,https://git.dai-ichi-life.com.vn/groups/management-config/prd/application-config,,2025-05-17T04:31:06.119Z,0,93.5107421875
+881,ServerSystemConfig,management-config/prd/serversystem-config,https://git.dai-ichi-life.com.vn/groups/management-config/prd/serversystem-config,,2025-05-19T08:44:48.239Z,0,0.0
+882,ServerSystemConfig,management-config/uat/serversystem-config,https://git.dai-ichi-life.com.vn/groups/management-config/uat/serversystem-config,,2025-05-19T08:44:54.735Z,0,0.0
+883,DeveloperSystemArchitecture,security-groups/developer-system-architecture,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-system-architecture,📌System Architecture,2025-05-19T08:51:23.890Z,0,0.0
+884,DeveloperServerAdministration2,security-groups/developer-server-administration-2,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-server-administration-2,📌System Administration 2,2025-05-19T08:51:47.617Z,0,0.0
+890,SecurityGroups,security-groups,https://git.dai-ichi-life.com.vn/groups/security-groups,"📌 Important note: These groups do not contain projects. Their sole purpose is to support detailed and efficient permission management, not to create or store projects within them.",2025-05-19T23:34:02.627Z,0,0.0
+891,DeveloperCustomerDigitalSystems,security-groups/developer-customer-digital-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-customer-digital-systems,📌Customer Digital Systems,2025-05-19T23:49:21.673Z,0,0.0
+905,Openshift UAT,openshift-uat,https://git.dai-ichi-life.com.vn/groups/openshift-uat,,2025-05-24T07:46:41.030Z,0,0.0
+906,d-medic-uat,openshift-uat/d-medic-uat,https://git.dai-ichi-life.com.vn/groups/openshift-uat/d-medic-uat,,2025-05-24T07:47:33.850Z,0,77.009765625
+913,DeveloperDistributionDigitalSystems,security-groups/developer-distribution-digital-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-distribution-digital-systems,📌Distribution Digital Systems,2025-05-26T07:53:32.141Z,0,0.0
+935,MicroFrontends,micro-frontends,https://git.dai-ichi-life.com.vn/groups/micro-frontends,💎,2025-05-28T04:33:02.148Z,0,0.0
+936,SquadLeaderServerAdministration2,security-groups/squad-leader-server-administration-2,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-server-administration-2,📌System Administration 2,2025-05-28T11:23:12.360Z,0,0.0
+937,SquadLeaderSystemArchitecture,security-groups/squad-leader-system-architecture,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-system-architecture,📌System Architecture,2025-05-28T11:26:16.758Z,0,0.0
+938,SquadLeaderCustomerDigitalSystems,security-groups/squad-leader-customer-digital-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-customer-digital-systems,📌Customer Digital Systems,2025-05-28T11:31:42.705Z,0,0.0
+939,SquadLeaderDistributionDigitalSystems,security-groups/squad-leader-distribution-digital-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-distribution-digital-systems,📌Distribution Digital Systems,2025-05-28T11:33:03.152Z,0,0.0
+942,EApplication,microservices/e-application,https://git.dai-ichi-life.com.vn/groups/microservices/e-application,,2025-06-03T04:04:46.178Z,0,305777.2587890625
+953,ECV,microservices/e-cv,https://git.dai-ichi-life.com.vn/groups/microservices/e-cv,,2025-06-10T06:48:27.611Z,0,11470.0546875
+957,Convention,system-architecture/convention,https://git.dai-ichi-life.com.vn/groups/system-architecture/convention,,2025-06-11T02:40:10.124Z,0,145.9677734375
+964,ace-uat,openshift-uat/ace-uat,https://git.dai-ichi-life.com.vn/groups/openshift-uat/ace-uat,,2025-06-14T09:34:55.901Z,0,3.86328125
+968,DeveloperInstechInnovation,security-groups/developer-instech-innovation,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-instech-innovation,📌Instech - Innovation,2025-06-16T09:14:57.831Z,0,0.0
+970,deep-learning-tutorial,instech/intern-rnd/deep-learning-tutorial,https://git.dai-ichi-life.com.vn/groups/instech/intern-rnd/deep-learning-tutorial,,2025-06-16T09:56:41.809Z,0,935278.224609375
+992,ADPortalSystem,ad-portal-system,https://git.dai-ichi-life.com.vn/groups/ad-portal-system,💎,2025-06-18T07:33:43.282Z,0,72890.4609375
+994,AgencyServices,microservices/agency-services,https://git.dai-ichi-life.com.vn/groups/microservices/agency-services,,2025-06-18T09:05:02.684Z,0,12886.1767578125
+995,RelationshipManagement,microservices/relationship-management,https://git.dai-ichi-life.com.vn/groups/microservices/relationship-management,,2025-06-18T09:05:32.954Z,0,2773.6484375
+998,SquadLeaderDistributionAdministrationSystem,security-groups/squad-leader-distribution-administration-system,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-distribution-administration-system,📌Distribution Administration System,2025-06-18T09:31:53.937Z,0,0.0
+999,DeveloperDistributionAdministrationSystem,security-groups/developer-distribution-administration-system,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-distribution-administration-system,📌Distribution Administration System,2025-06-18T09:32:55.085Z,0,0.0
+1000,Authentication,microservices/authentication,https://git.dai-ichi-life.com.vn/groups/microservices/authentication,,2025-06-18T09:42:51.334Z,0,5.140625
+1016,Libraries,libraries,https://git.dai-ichi-life.com.vn/groups/libraries,💎A central repository for all internal libraries developed and maintained by the technology department.,2025-06-26T08:26:51.380Z,0,3417.1396484375
+1025,DemoProjects,demo-projects,https://git.dai-ichi-life.com.vn/groups/demo-projects,,2025-06-27T04:18:15.922Z,0,22.2509765625
+1045,apic-gateway,apic-gateway,https://git.dai-ichi-life.com.vn/groups/apic-gateway,,2025-07-10T10:03:35.677Z,0,164.84375
+1053,DeveloperCustomerServiceSystems,security-groups/developer-customer-service-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-customer-service-systems,📌Customer Service Systems,2025-07-17T03:23:56.552Z,0,0.0
+1054,SquadLeaderCustomerServiceSystems,security-groups/squad-leader-customer-service-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-customer-service-systems,📌Customer Service Systems,2025-07-17T03:26:27.929Z,0,0.0
+1058,DEV,management-config/dev,https://git.dai-ichi-life.com.vn/groups/management-config/dev,,2025-07-18T06:48:38.175Z,0,0.0
+1059,ApplicationConfig,management-config/dev/application-config,https://git.dai-ichi-life.com.vn/groups/management-config/dev/application-config,,2025-07-18T06:49:34.660Z,0,33.9716796875
+1061,UnifiedCommunicationPlatform,unified-communication-platform,https://git.dai-ichi-life.com.vn/groups/unified-communication-platform,"💎Systems that integrate voice, video, messaging, and collaboration tools for efficient, seamless communication.",2025-07-22T09:22:14.431Z,0,6.216796875
+1065,UserIdentityRequisitionSystem,user-identity-requisition-system,https://git.dai-ichi-life.com.vn/groups/user-identity-requisition-system,"💎UserIdentityRequisitionSystem (UIR) - System that help to streamlines the submission and approval of identity requisitions, ensuring that users are granted appropriate access rights based on their roles and responsibilities.",2025-07-25T09:23:57.535Z,0,35714.1181640625
+1069,SquadLeaderCorporateSupportSystems,security-groups/squad-leader-corporate-support-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-corporate-support-systems,📌Corporate Support Systems,2025-07-25T09:32:22.508Z,0,0.0
+1070,DeveloperCorporateSupportSystems,security-groups/developer-corporate-support-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-corporate-support-systems,📌Corporate Support Systems,2025-07-25T09:33:08.721Z,0,0.0
+1075,UserProvisioningService,user-provisioning-service,https://git.dai-ichi-life.com.vn/groups/user-provisioning-service,"💎RESTful service (.NET 4.8) for provisioning user accounts across LDAP, Zimbra, and internal systems. Supports onboarding, transfer, and resignation workflows via integration with PowerApp HR Management and the User Identity Requisition System.",2025-07-29T06:55:46.943Z,0,39174.2021484375
+1086,ElectronicKnowYourCustomerPlatform,electronic-know-your-customer-platform,https://git.dai-ichi-life.com.vn/groups/electronic-know-your-customer-platform,"💎A platform for managing and integrating all eKYC (Electronic Know Your Customer) components including core services, admin frontend, and SDKs for mobile applications.",2025-07-31T09:47:26.759Z,0,1023141.02734375
+1103,iBPS-Utilities-UAT,ibps-utilities-uat,https://git.dai-ichi-life.com.vn/groups/ibps-utilities-uat,,2025-08-11T07:43:56.127Z,0,802410.8623046875
+1114,ServiceRequestManagementSystem,service-request-management-system,https://git.dai-ichi-life.com.vn/groups/service-request-management-system,"💎System that design to centralize the handling of IT-related service requests in DLVN. It enables users to submit, track, and manage requests for IT support, equipment, software development, and other technical services.",2025-08-18T04:41:20.945Z,0,244820.0712890625
+1124,TechnicalLeaderDistributionAdministrationSystem,security-groups/technical-leader-distribution-administration-system,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-distribution-administration-system,📌Distribution Administration System,2025-08-27T02:24:32.650Z,0,0.0
+1125,HealthBuzzClaimsManagementSystem,health-buzz-claims-management-system,https://git.dai-ichi-life.com.vn/groups/health-buzz-claims-management-system,"💎Health Buzz Management System is a modern claims management solution that enables flexible workflow adjustment to efficiently handle claims, calculate premiums and benefits, track history, and manage approvals. The system automates notifications, provides detailed management reports, boosts user productivity, integrates seamlessly with existing applications, and ensures strict information security.",2025-08-27T03:29:45.652Z,0,755875.5263671875
+1136,SquadLeaderBusinessProcessAutomation,security-groups/squad-leader-business-process-automation,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-business-process-automation,📌Business Process Automation,2025-08-27T03:44:15.369Z,0,0.0
+1137,TechnicalLeaderBusinessProcessAutomation,security-groups/technical-leader-business-process-automation,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-business-process-automation,📌Business Process Automation,2025-08-27T03:45:14.347Z,0,0.0
+1138,DeveloperBusinessProcessAutomation,security-groups/developer-business-process-automation,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-business-process-automation,📌Business Process Automation,2025-08-27T03:46:13.176Z,0,0.0
+1140,DeveloperSalesEnablement,security-groups/developer-sales-enablement,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-sales-enablement,📌Sales Enablement,2025-08-28T03:36:13.982Z,0,0.0
+1141,SalesOnlinePlatform,sales-online-platform,https://git.dai-ichi-life.com.vn/groups/sales-online-platform,,2025-08-28T04:25:32.334Z,0,3.8818359375
+1145,TechnicalLeaderSalesEnablement,security-groups/technical-leader-sales-enablement,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-sales-enablement,📌Sales Enablement,2025-08-28T04:37:36.903Z,0,0.0
+1146,SquadLeaderSalesEnablement,security-groups/squad-leader-sales-enablement,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-sales-enablement,📌Sales Enablement,2025-08-28T04:38:46.848Z,0,0.0
+1149,TechnicalLeaderDistributionDigitalSystems,security-groups/technical-leader-distribution-digital-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-distribution-digital-systems,📌Distribution Digital Systems,2025-09-04T07:38:25.924Z,0,0.0
+1150,TechnicalLeaderCustomerDigitalSystems,security-groups/technical-leader-customer-digital-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-customer-digital-systems,📌Customer Digital Systems,2025-09-08T01:58:53.484Z,0,0.0
+1151,TechnicalLeaderCorporateSupportSystems,security-groups/technical-leader-corporate-support-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-corporate-support-systems,📌Corporate Support Systems,2025-09-08T02:02:23.596Z,0,0.0
+1152,TechnicalLeaderCustomerServiceSystems,security-groups/technical-leader-customer-service-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-customer-service-systems,📌Customer Service Systems,2025-09-08T02:14:13.353Z,0,0.0
+1153,TechnicalLeaderSystemArchitecture,security-groups/technical-leader-system-architecture,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-system-architecture,📌System Architecture,2025-09-08T02:17:42.814Z,0,0.0
+1154,TechnicalLeaderServerAdministration2,security-groups/technical-leader-server-administration-2,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-server-administration-2,📌System Administration 2,2025-09-08T02:20:04.825Z,0,0.0
+1155,SquadLeaderInstechInnovation,security-groups/squad-leader-instech-innovation,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-instech-innovation,📌Instech - Innovation,2025-09-08T02:24:18.338Z,0,0.0
+1156,TechnicalLeaderInstechInnovation,security-groups/technical-leader-instech-innovation,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-instech-innovation,📌Instech - Innovation,2025-09-08T02:28:48.041Z,0,0.0
+1157,SquadLeaderPolicyAdminSystem,security-groups/squad-leader-policy-admin-system,https://git.dai-ichi-life.com.vn/groups/security-groups/squad-leader-policy-admin-system,📌Policy Admin System,2025-09-08T02:37:32.196Z,0,0.0
+1158,TechnicalLeaderPolicyAdminSystem,security-groups/technical-leader-policy-admin-system,https://git.dai-ichi-life.com.vn/groups/security-groups/technical-leader-policy-admin-system,📌Policy Admin System,2025-09-08T02:38:06.540Z,0,0.0
+1159,DeveloperPolicyAdminSystem,security-groups/developer-policy-admin-system,https://git.dai-ichi-life.com.vn/groups/security-groups/developer-policy-admin-system,📌Policy Admin System,2025-09-08T02:39:05.399Z,0,0.0
+1162,CodeQualityCustomerDigitalSystems,security-groups/code-quality-customer-digital-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/code-quality-customer-digital-systems,📌Customer Digital Systems,2025-09-12T09:09:10.927Z,0,0.0
+1163,CodeSecurityCustomerDigitalSystems,security-groups/code-security-customer-digital-systems,https://git.dai-ichi-life.com.vn/groups/security-groups/code-security-customer-digital-systems,📌Customer Digital Systems,2025-09-12T09:10:17.666Z,0,0.0
